@@ -1,4 +1,3 @@
-__pycache__/
-*.pyc
-venv/
-.env
+Flask
+Flask-CORS
+gunicorn
